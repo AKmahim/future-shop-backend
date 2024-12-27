@@ -7,10 +7,10 @@
                 <div class="row">
                     <div class="col-lg-12 text-center">
                         <div class="breadcrumb__text">
-                            <h2>Checkout</h2>
+                            <h2 style="color:black;">Checkout</h2>
                             <div class="breadcrumb__option">
-                                <a href="{{url('/')}}">Home</a>
-                                <span>Checkout</span>
+                                <a href="{{url('/')}}" style="color:black;">Home</a>
+                                <span style="color:black;">Checkout</span>
                             </div>
                         </div>
                     </div>

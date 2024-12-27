@@ -8,10 +8,10 @@
         <div class="row">
             <div class="col-lg-12 text-center">
                 <div class="breadcrumb__text">
-                    <h2>Contact Us</h2>
+                    <h2 style="color:black;">Contact Us</h2>
                     <div class="breadcrumb__option">
-                        <a href="./index.html">Home</a>
-                        <span>Contact Us</span>
+                        <a href="{{ url('/') }}" style="color:black;">Home</a>
+                        <span style="color:black;">Contact Us</span>
                     </div>
                 </div>
             </div>

@@ -7,7 +7,7 @@
     <meta name="keywords" content="ajwanshop, athentic attor,">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>AjwanShop</title>
+    <title>Future Shop</title>
     <link rel="icon" type="image/png" href="{{ asset('frontend') }}/img/logo.png">
 
 
@@ -85,8 +85,8 @@
         </div>
         <div class="humberger__menu__contact">
             <ul>
-                <li><i class="fa fa-home"></i>Welcome to Ajwan Shop</li>
-                <li><i class="fa fa-envelope"></i> info@ajwanshop.com</li>
+                <li><i class="fa fa-home"></i>Welcome to Future Shop</li>
+                <li><i class="fa fa-envelope"></i> info@futureshop.com</li>
                 
             </ul>
         </div>
@@ -101,8 +101,8 @@
                     <div class="col-lg-6 col-md-6">
                         <div class="header__top__left">
                             <ul>
-                                <li><i class="fa fa-home"></i>Welcome to Ajwan Shop</li>
-                                <li><i class="fa fa-envelope"></i> info@ajwanshop.com</li>                
+                                <li><i class="fa fa-home"></i>Welcome to Future Shop</li>
+                                <li><i class="fa fa-envelope"></i> info@futureshop.com</li>                
                             </ul>
                         </div>
                     </div>
@@ -204,7 +204,7 @@
                                 <i class="fa fa-phone"></i>
                             </div>
                             <div class="hero__search__phone__text">
-                                <h5> +880 9638 444 004</h5>
+                                <h5> +880 XXXXXXXXXX</h5>
                                 <span>support 24/7 time</span>
                             </div>
                         </div>
@@ -230,9 +230,9 @@
                             <a href="./index.html"><img src="{{ asset('frontend') }}/img/logo.png" alt="" style="height: 50px"></a>
                         </div>
                         <ul>
-                            <li>Address: বাড়ি#27, রোড#12, শেখেরটেক, আদাবর, মোহাম্মদপুর, ঢাকা-1207 (মোহাম্মদপুর গ্রেস ইন্টারন্যাশনাল স্কুল এর ২য় তলা)</li>
+                            <li>Address: House 21, Road 9/A, Dhanmondi, Dhaka 1209, Bangladesh</li>
                             <li>Phone: +8809638444004 , +8801331559550</li>
-                            <li>Email: info@ajwanshop.com</li>
+                            <li>Email: info@futureshop.com</li>
                         </ul>
                     </div>
                 </div>
@@ -271,7 +271,7 @@
                 <div class="col-lg-12">
                     <div class="footer__copyright">
                         <div class="footer__copyright__text"><p>
-  Copyright &copy;<script>document.write(new Date().getFullYear() +1);</script> All rights reserved | Ajwan Shop
+  Copyright &copy;<script>document.write(new Date().getFullYear() +1);</script> All rights reserved | Future Shop
   <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p></div>
                         <div class="footer__copyright__payment"><img src="img/payment-item.png" alt=""></div>
                     </div>
