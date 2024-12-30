@@ -28,14 +28,14 @@
                 <div class="contact__widget">
                     <span class="icon_phone" style="color: #fcb800"></span>
                     <h4 style="color: #fcb800">Phone</h4>
-                    <p>+880 9638 444 004</p>
+                    <p>+880 1684-100800, +880 1924-597975</p>
                 </div>
             </div>
             <div class="col-lg-3 col-md-3 col-sm-6 text-center">
                 <div class="contact__widget">
                     <span class="icon_pin_alt" style="color: #fcb800"></span>
                     <h4 style="color: #fcb800">Address</h4>
-                    <p> বাড়ি#27, রোড#12, শেখেরটেক, আদাবর, মোহাম্মদপুর, ঢাকা-1207 (মোহাম্মদপুর গ্রেস ইন্টারন্যাশনাল স্কুল এর ২য় তলা)</p>
+                    <p> House 21, Road 9/A, Dhanmondi, Dhaka - 1209, Bangladesh</p>
                 </div>
             </div>
             <div class="col-lg-3 col-md-3 col-sm-6 text-center">
@@ -49,7 +49,7 @@
                 <div class="contact__widget">
                     <span class="icon_mail_alt" style="color: #fcb800"></span>
                     <h4 style="color: #fcb800">Email</h4>
-                    <p>info@ajwanshop.com</p>
+                    <p>info@futureshop.com</p>
                 </div>
             </div>
         </div>
@@ -59,16 +59,16 @@
 
 <!-- Map Begin -->
 <div class="map">
-    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3651.4144965776004!2d90.35100137435967!3d23.768249888092786!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755c18733a0778f%3A0xb19d72b71eca0276!2sShekhertek!5e0!3m2!1sen!2sbd!4v1703437435564!5m2!1sen!2sbd" 
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3652.0338782834224!2d90.3716924743471!3d23.746171278673295!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755bf53c245dff7%3A0x4e1664e7fc6a82ae!2sXR%20Interactive!5e0!3m2!1sen!2sbd!4v1712489377910!5m2!1sen!2sbd" 
      height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade">
     </iframe>
     <div class="map-inside">
         <i class="icon_pin"></i>
         <div class="inside-widget">
-            <h4>শেখেরটেক, আদাবর, মোহাম্মদপুর</h4>
+            <h4>House 21, Road 9/A, Dhanmondi, Dhaka - 1209, Bangladesh</h4>
             <ul>
-                <li>Phone: +8801331559550</li>
-                <li>Add: বাড়ি#27, রোড#12, শেখেরটেক, আদাবর, মোহাম্মদপুর, ঢাকা-1207 (মোহাম্মদপুর গ্রেস ইন্টারন্যাশনাল স্কুল এর ২য় তলা)</li>
+                <li>Phone: +880 1684-100800, +880 1924-597975</li>
+                <li>Add: House 21, Road 9/A, Dhanmondi, Dhaka - 1209, Bangladesh</li>
             </ul>
         </div>
     </div>

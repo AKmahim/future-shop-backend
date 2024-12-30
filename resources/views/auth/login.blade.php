@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>Ajwan Shop | Admin Login </title>
+    <title>Future Shop | Admin Login </title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="" name="keywords">
     <meta content="" name="description">
@@ -46,7 +46,7 @@
                     <div class="bg-secondary rounded p-4 p-sm-5 my-4 mx-3">
                         <div class="d-flex align-items-center justify-content-between mb-3">
                             <a href="index.html" class="">
-                                <h3 class="text-primary"><img src="{{asset('frontend')}}/img/logo.png" style="height: 40px;" alt="" srcset=""></i>Ajwan Shop</h3>
+                                <h3 class="text-primary"><img src="{{asset('frontend')}}/img/logo.png" style="height: 40px;" alt="" srcset=""></i>Future Shop</h3>
                             </a>
                             <h3>Login</h3>
                         </div>

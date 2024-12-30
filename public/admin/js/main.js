@@ -60,7 +60,7 @@
 
 
     // Chart Global Color
-    Chart.defaults.color = "#6C7293";
+    Chart.defaults.color = "#7c51a1";
     Chart.defaults.borderColor = "#000000";
 
 
@@ -73,17 +73,17 @@
             datasets: [{
                     label: "USA",
                     data: [15, 30, 55, 65, 60, 80, 95],
-                    backgroundColor: "rgba(235, 22, 22, .7)"
+                    backgroundColor: "rgba(124, 81, 161, .7)"
                 },
                 {
                     label: "UK",
                     data: [8, 35, 40, 60, 70, 55, 75],
-                    backgroundColor: "rgba(235, 22, 22, .5)"
+                    backgroundColor: "rgba(124, 81, 161, .5)"
                 },
                 {
                     label: "AU",
                     data: [12, 25, 45, 55, 65, 70, 60],
-                    backgroundColor: "rgba(235, 22, 22, .3)"
+                    backgroundColor: "rgba(124, 81, 161, .3)"
                 }
             ]
             },
@@ -102,13 +102,13 @@
             datasets: [{
                     label: "Salse",
                     data: [15, 30, 55, 45, 70, 65, 85],
-                    backgroundColor: "rgba(235, 22, 22, .7)",
+                    backgroundColor: "rgba(124, 81, 161, .7)",
                     fill: true
                 },
                 {
                     label: "Revenue",
                     data: [99, 135, 170, 130, 190, 180, 270],
-                    backgroundColor: "rgba(235, 22, 22, .5)",
+                    backgroundColor: "rgba(124, 81, 161, .5)",
                     fill: true
                 }
             ]

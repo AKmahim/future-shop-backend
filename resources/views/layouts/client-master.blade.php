@@ -231,7 +231,7 @@
                         </div>
                         <ul>
                             <li>Address: House 21, Road 9/A, Dhanmondi, Dhaka 1209, Bangladesh</li>
-                            <li>Phone: +8809638444004 , +8801331559550</li>
+                            <li>Phone: +880xxxxxxxxx</li>
                             <li>Email: info@futureshop.com</li>
                         </ul>
                     </div>
